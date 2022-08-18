@@ -33,4 +33,4 @@ python detect_mask_photo.py
 
 ### From photo
 
-https://raw.githubusercontent.com/NibanK/Mask-Detection/main/output_test_img.png
+![image] (https://raw.githubusercontent.com/NibanK/Mask-Detection/main/output_test_img.png)
