@@ -31,6 +31,10 @@ python detect_mask_photo.py
 
 ## Outputs
 
-### From photo
+**1. From photo**
 
-![image] (https://raw.githubusercontent.com/NibanK/Mask-Detection/main/output_test_img.png)
+<img src='output_test_img.png'/>
+
+**2. From live video**
+
+<img src='live_output.png'/>
