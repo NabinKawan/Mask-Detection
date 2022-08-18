@@ -23,16 +23,14 @@ Zip with corresponding .txt file in images.zip and upload to drive.
 *  After completion of training yolov3_training.weights should be downloaded from drive.
 
 # Detect in live video
-```
-
 python detect_mask.py
 
-```
 # Detect in live video
-```
-
 python detect_mask_photo.py
-
 ```
 
-```
+## Outputs
+
+### From photo
+
+https://raw.githubusercontent.com/NibanK/Mask-Detection/main/output_test_img.png
